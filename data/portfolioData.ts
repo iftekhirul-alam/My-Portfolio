@@ -184,7 +184,7 @@ export const portfolioData: PortfolioData = {
     {
       title: "Google IT Support Professional Certificate",
       issuer: "Google, Coursera",
-      link: "https://www.coursera.org",
+      link: "https://www.coursera.org/account/accomplishments/professional-cert/595ZYC6EXZGP",
     },
   ],
 };
